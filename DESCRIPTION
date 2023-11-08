@@ -1,12 +1,19 @@
 Package: ChessGMsdata
-Title: What the Package Does (One Line, Title Case)
+Title: Package With Chess Grandmasters data
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given = "Jehangeer",
+           family = "Aswani",
+           role = c("aut", "cre"),
+           email = "aswanijehangeer@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0009-0008-6693-5227"))
+Description: This package offers a comprehensive dataset on chess grandmasters.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    tibble
