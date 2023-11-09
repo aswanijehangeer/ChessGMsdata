@@ -8,7 +8,6 @@
 </h4>
 
 ![R Version](https://img.shields.io/badge/R-%3E%3D%203.0.0-blue)
-![License](https://img.shields.io/badge/License-MIT-blue)
 [![GitHub issues](https://img.shields.io/github/issues/aswanijehangeer/ChessGMsdata)](https://github.com/aswanijehangeer/ChessGMsdata/issues)
 
 ---
