@@ -1,10 +1,22 @@
-# ChessGMsdata
+<h3 align="center">ChessGMsdata</h3>
+
+<h4>
+<img src="ChessGMsdata-hex.png" width="170" height="200" align="right"/>
+  Chess Grand Masters Data. 
+  <br><br>
+  &middot;
+  by <a href="https://www.linkedin.com/in/aswanijehangeer/">Jehangeer Aswani</a>
+</h4>
 
 ![R Version](https://img.shields.io/badge/R-%3E%3D%203.0.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-[![GitHub issues](https://img.shields.io/github/issues/aswanijehangeer/ChessGMsdata)](https://github.com/YourUsername/ChessGMsdata/issues)
+[![GitHub issues](https://img.shields.io/github/issues/aswanijehangeer/ChessGMsdata)](https://github.com/aswanijehangeer/ChessGMsdata/issues)
+
+---
 
 A comprehensive R data package containing a dataset of chess grandmasters' information, including their personal details, achievements, and more. This package serves as a valuable resource for chess analysis, research, and exploration of the chess world.
+<br>
+<br>
 
 ## Installation
 
@@ -41,3 +53,5 @@ This package is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 For questions, issues, or suggestions, please open an issue.
+
+-
