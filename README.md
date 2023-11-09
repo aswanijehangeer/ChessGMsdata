@@ -13,7 +13,7 @@
 
 ---
 
-A R data package containing a dataset of chess grandmasters' information, including their name, fide id, birth date, birth place, and more. This package serves as a valuable resource for chess analysis, research, and exploration of the chess world.
+An R data package containing a dataset of chess grandmasters' information, including their name, fide id, birth date, birth place, and more. This package serves as a valuable resource for chess analysis, research, and exploration of the chess world.
 
 ## Installation
 
