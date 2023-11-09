@@ -2,10 +2,9 @@
 
 <h4>
 <img src="ChessGMsdata-hex.png" width="170" height="200" align="right"/>
-  Chess Grand Masters Data. 
-  <br><br>
-  &middot;
-  by <a href="https://www.linkedin.com/in/aswanijehangeer/">Jehangeer Aswani</a>
+  Chess Grand Masters Data.
+   <br><br>
+  <a href="https://www.linkedin.com/in/aswanijehangeer/">aswanijehangeer</a>
 </h4>
 
 ![R Version](https://img.shields.io/badge/R-%3E%3D%203.0.0-blue)
@@ -14,9 +13,7 @@
 
 ---
 
-A comprehensive R data package containing a dataset of chess grandmasters' information, including their personal details, achievements, and more. This package serves as a valuable resource for chess analysis, research, and exploration of the chess world.
-<br>
-<br>
+A R data package containing a dataset of chess grandmasters' information, including their name, fide id, birth date, birth place, and more. This package serves as a valuable resource for chess analysis, research, and exploration of the chess world.
 
 ## Installation
 
@@ -53,5 +50,3 @@ This package is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 For questions, issues, or suggestions, please open an issue.
-
--
