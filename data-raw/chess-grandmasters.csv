@@ -142,7 +142,7 @@ Zhao Zong-Yuan,3202534,1986-06-26,"Beijing, China",NA,2008,Australia,Male,NA,htt
 "Azarov, Sergei",13501470,1983-05-19,Minsk,NA,2003,Belarus,Male,NA,https://ratings.fide.com/profile/13501470,53.9132859939311,27.5449835637112
 "Dydyshko, Viacheslav",13500031,1949-04-10,Minsk,NA,1995,Belarus,Male,NA,https://ratings.fide.com/profile/13500031,53.9099668654401,27.5402848491857
 "Kovalev, Vladislav",13504398,1994-01-06,Minsk,NA,2013,FIDE,Male,NA,https://ratings.fide.com/profile/13504398,53.8888306298081,27.5436645512881
-"Lazavik, Denis",13515110,2006,Minsk,NA,2022,Belarus,Male,NA,https://ratings.fide.com/profile/13515110,53.8983076240469,27.5699840129439
+"Lazavik, Denis",13515110,2006-11-17,Minsk,NA,2022,Belarus,Male,NA,https://ratings.fide.com/profile/13515110,53.8983076240469,27.5699840129439
 "Liutsko, Igor",13500716,1962-04-06,Minsk,NA,2004,Belarus,Male,NA,https://ratings.fide.com/profile/13500716,53.9200219956666,27.5507138760241
 "Nikitenko, Mihail",13506862,2000-03-28,Minsk,NA,2022,Belarus,Male,IM,https://ratings.fide.com/profile/13506862,53.8814893210001,27.5696346369053
 "Romanenko, Vladimir",13502921,1985-04-06,Minsk,NA,2011,Belarus,Male,[note 84],https://ratings.fide.com/profile/13502921,53.9163361110652,27.5674949484731
@@ -303,9 +303,9 @@ Zhu Chen,8600546,1976-03-16,Wenzhou,NA,2001,China,Female,Women's World Champion 
 Wei Yi,8603405,1999-06-02,Wuxi,NA,2013,China,Male,NA,https://ratings.fide.com/profile/8603405,31.5897479422023,120.311195858424
 Hou Yifan,8602980,1994-02-27,Xinghua,NA,2008,China,Female,NA,https://ratings.fide.com/profile/8602980,32.9299371796056,119.834672458916
 Wu Wenjin,8600716,1976-03-10,Zhenjiang,NA,2000,China,Male,NA,https://ratings.fide.com/profile/8600716,32.1739277425076,119.396562091441
-"Cardoso Cardoso, Jose Gabriel",4430492,2004,Bogota,NA,2022,Colombia,Male,NA,https://ratings.fide.com/profile/4430492,4.67403018704514,-74.0753041155714
+"Cardoso Cardoso, Jose Gabriel",4430492,2004-01-01,Bogota,NA,2022,Colombia,Male,NA,https://ratings.fide.com/profile/4430492,4.67403018704514,-74.0753041155714
 "Ruiz Castillo, Joshua Daniel",4400704,1997-07-08,Bogota,NA,2019,Colombia,Male,NA,https://ratings.fide.com/profile/4400704,4.64010729644812,-74.0919291484852
-"Avila Pavas, Santiago",4437128,2004,Cali,NA,2023,Colombia,Male,NA,https://ratings.fide.com/profile/4437128,3.46340295754451,-76.5541310540417
+"Avila Pavas, Santiago",4437128,2004-05-24,Cali,NA,2023,Colombia,Male,NA,https://ratings.fide.com/profile/4437128,3.46340295754451,-76.5541310540417
 "Escobar Forero, Alder",4400801,1977-03-11,Colombia,NA,2014,Colombia,Male,NA,https://ratings.fide.com/profile/4400801,4.10277080921792,-72.9155676446645
 "Arenas, David",4403177,1991-12-24,Envigado,NA,2017,Colombia,Male,NA,https://ratings.fide.com/profile/4403177,6.17124488538399,-75.6034037051862
 "Cabrera, Alexis",3502783,1976-12-25,Matanzas,NA,2004,Spain,Male,NA,https://ratings.fide.com/profile/3502783,23.0582173156275,-81.5978787088755
@@ -760,7 +760,7 @@ Cao Sang,725056,1973-09-06,Ho Chi Minh,NA,2003,Vietnam,Male,NA,https://ratings.f
 "Pétursson, Margeir",2300028,1960-02-15,Reykjavik,NA,1986,Iceland,Male,NA,https://ratings.fide.com/profile/2300028,64.1418433314044,-21.9678308558909
 "Sigurjonsson, Guðmundur",2300079,1947-09-25,Reykjavik,NA,1975,Iceland,Male,NA,https://ratings.fide.com/profile/2300079,64.1244131181756,-21.9125726288257
 "Stefansson, Hannes",2300087,1972-07-18,Reykjavik,NA,1993,Iceland,Male,NA,https://ratings.fide.com/profile/2300087,64.1731001327553,-21.9679780368719
-"Stefansson, Vignir Vatnar",2308649,2003,Reykjavik,NA,2023,Iceland,Male,NA,https://ratings.fide.com/profile/2308649,64.1467991405393,-21.9643916600316
+"Stefansson, Vignir Vatnar",2308649,2003-02-07,Reykjavik,NA,2023,Iceland,Male,NA,https://ratings.fide.com/profile/2308649,64.1467991405393,-21.9643916600316
 "Steingrimsson, Héðinn",2300117,1975-01-11,Reykjavik,NA,2007,Iceland,Male,NA,https://ratings.fide.com/profile/2300117,64.1638251933449,-21.9471454059963
 "Thorfinnsson, Bragi",2300958,1981-04-10,Reykjavik,NA,2018,Iceland,Male,NA,https://ratings.fide.com/profile/2300958,64.1249873918103,-21.9565142863968
 "Thorhallsson, Throstur",2300109,1969-03-19,Reykjavik,NA,1996,Iceland,Male,NA,https://ratings.fide.com/profile/2300109,64.1644669014163,-21.9471375823279
@@ -860,7 +860,7 @@ Ardiansyah,7100027,1951-12-05,Banjarmasin,2017-10-28,1986,Indonesia,Male,"in som
 "Lorparizangeneh, Shahin",12521604,1999-01-16,"Isfahan, Iran",NA,2017,Iran,Male,NA,https://ratings.fide.com/profile/12521604,32.6757367231462,51.6723160779182
 "Darini, Pouria",12502200,1991-01-24,"Jiroft, Iran",NA,2013,Iran,Male,NA,https://ratings.fide.com/profile/12502200,28.6701353907564,57.7333157550943
 "Mousavi, Seyed Khalil",12511099,1998-04-20,"Langarud, Iran",NA,2022,Iran,Male,IM,https://ratings.fide.com/profile/12511099,37.1954015677254,50.1602735376981
-"Mosadeghpour, Masoud",12519278,1997,"Mashhad, Iran",NA,2017,Iran,Male,NA,https://ratings.fide.com/profile/12519278,36.3048751617036,59.5829521565437
+"Mosadeghpour, Masoud",12519278,1997-12-03,"Mashhad, Iran",NA,2017,Iran,Male,NA,https://ratings.fide.com/profile/12519278,36.3048751617036,59.5829521565437
 "Pourramezanali, Amirreza",12511412,1992-09-23,"Rasht, Iran",NA,2016,Iran,Male,NA,https://ratings.fide.com/profile/12511412,37.2510844518262,49.5661432472169
 "Toufighi, Homayoon",12503592,1990-03-21,"Rasht, Iran",NA,2010,Iran,Male,NA,https://ratings.fide.com/profile/12503592,37.2941548426514,49.5870334122442
 "Gholami, Aryan",12513342,2001-07-26,"Sari, Iran",NA,2020,Iran,Male,NA,https://ratings.fide.com/profile/12513342,36.5732031645484,53.0517628387958
@@ -881,7 +881,7 @@ Ardiansyah,7100027,1951-12-05,Banjarmasin,2017-10-28,1986,Indonesia,Male,"in som
 "Gruenfeld, Yehuda",2800020,1956-02-28,Dzierzoniow,NA,1980,Israel,Male,NA,https://ratings.fide.com/profile/2800020,50.7088920060272,16.6471668240862
 "Kantsler, Boris",2805359,1962-04-16,"Bishkek, Kyrgyzstan",NA,1999,Israel,Male,NA,https://ratings.fide.com/profile/2805359,42.8861848676932,74.5793011490454
 "Mikhalevski, Victor",2801914,1972-07-08,Gomel,NA,1996,Israel,Male,[note 67],https://ratings.fide.com/profile/2801914,52.4146338401045,31.0205115579941
-"Caspi, Israel",2807394,1989,Haifa,NA,2021,Israel,Male,NA,https://ratings.fide.com/profile/2807394,32.8451281572135,35.0165467486012
+"Caspi, Israel",2807394,1989-03-11,Haifa,NA,2021,Israel,Male,NA,https://ratings.fide.com/profile/2807394,32.8451281572135,35.0165467486012
 "Kraidman, Yair",2800187,1932-11-01,Haifa,NA,1976,Israel,Male,NA,https://ratings.fide.com/profile/2800187,32.7894739745466,34.9835994378145
 "Manor, Ilan",2800110,1969-10-26,Haifa,NA,1996,Israel,Male,NA,https://ratings.fide.com/profile/2800110,32.8425667557867,34.9830927833536
 "Boruchovsky, Avital",2800055,1997-03-15,Israel,NA,2014,Israel,Male,NA,https://ratings.fide.com/profile/2800055,39.347862399521,-79.7813868837433
@@ -905,7 +905,7 @@ Ardiansyah,7100027,1951-12-05,Banjarmasin,2017-10-28,1986,Indonesia,Male,"in som
 "Popilski, Gil",2809060,1993-10-06,Petah Tikva,NA,2013,Israel,Male,NA,https://ratings.fide.com/profile/2809060,32.0852664168294,34.9070860585327
 "Soffer, Ram",2800101,1965-09-06,Ramat Gan,NA,1994,Israel,Male,NA,https://ratings.fide.com/profile/2800101,32.0610213321192,34.84765465486
 "Gutman, Lev",4600177,1945-09-26,Riga,NA,1986,Germany,Male,NA,https://ratings.fide.com/profile/4600177,56.9255647569517,24.1103387251736
-"Gorshtein, Ido",2815532,2002,Rishon LeZion,NA,2023,Israel,Male,NA,https://ratings.fide.com/profile/2815532,31.970182725123,34.7868083937239
+"Gorshtein, Ido",2815532,2002-01-01,Rishon LeZion,NA,2023,Israel,Male,NA,https://ratings.fide.com/profile/2815532,31.970182725123,34.7868083937239
 "Khmelniker, Ilya",2805340,1985-09-21,Russia,NA,2011,Israel,Male,NA,https://ratings.fide.com/profile/2805340,40.259107729633,-84.4250789311243
 "Zanan, Evgeny",24101940,1998-02-05,Russia,NA,2020,Israel,Male,NA,https://ratings.fide.com/profile/24101940,40.2078449089766,-84.4381932686589
 "Bykhovsky, Anatoly",2806991,1988-11-19,Samara,NA,2010,Israel,Male,NA,https://ratings.fide.com/profile/2806991,40.4663652831675,-86.8895643111607
@@ -941,7 +941,7 @@ Ardiansyah,7100027,1951-12-05,Banjarmasin,2017-10-28,1986,Indonesia,Male,"in som
 "Ibragimov, Alibek",13700952,1968-08-12,"Aktau, Kazakhstan",NA,2002,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13700952,43.6458384658625,51.1385697970418
 "Abdumalik, Zhansaya",13703544,2000-01-12,"Almaty, Kazakhstan",NA,2021,Kazakhstan,Female,NA,https://ratings.fide.com/profile/13703544,43.2628346162622,76.9730081255007
 "Asanov, Bolat",13700049,1961-05-07,"Almaty, Kazakhstan",NA,1994,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13700049,43.2159938788561,76.9176924511343
-"Izmukhambetov, Salauat",13700545,1972,"Almaty, Kazakhstan",NA,1996,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13700545,43.2565317559528,76.9712606733404
+"Izmukhambetov, Salauat",13700545,1971-11-25,"Almaty, Kazakhstan",NA,1996,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13700545,43.2565317559528,76.9712606733404
 "Vladimirov, Yevgeniy",13700014,1957-01-20,"Almaty, Kazakhstan",NA,1989,Kazakhstan,Male,currently Kazakhstan,https://ratings.fide.com/profile/13700014,43.2328444747494,76.9441635610321
 "Ismagambetov, Anuar",13701525,1986-03-21,"Astana, Kazakhstan",NA,2008,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13701525,51.1349905896505,71.4577685251756
 "Kotsur, Pavel",13700278,1974-01-03,"Astana, Kazakhstan",NA,1996,Kazakhstan,Male,NA,https://ratings.fide.com/profile/13700278,51.1352131413055,71.4374724871449
@@ -1204,7 +1204,7 @@ Peng Zhaoqin,1004786,1968-05-08,Guangzhou,NA,2004,Netherlands,Female,NA,https://
 "Lastin, Alexander",4119240,1976-10-30,"Arkhangelsk, Russia",2015-01-23,1997,Russia,Male,NA,https://ratings.fide.com/profile/4119240,64.5437039336629,40.5483852205413
 "Evdokimov, Alexander A.",4139275,1985-10-28,Astrakhan,NA,2005,Russia,Male,NA,https://ratings.fide.com/profile/4139275,46.369302258206,48.0556142739266
 "Matinian, Nikita",24129100,1992-04-21,Aygehovit,NA,2017,Russia,Male,NA,https://ratings.fide.com/profile/24129100,39.3428280474879,46.6517578401953
-"Sorokin, Aleksey",24176460,2000,Barnaul,NA,2021,Russia,Male,[note 91],https://ratings.fide.com/profile/24176460,53.326362941984,83.7527521446812
+"Sorokin, Aleksey",24176460,2000-04-13,Barnaul,NA,2021,Russia,Male,[note 91],https://ratings.fide.com/profile/24176460,53.326362941984,83.7527521446812
 "Nesterov, Arseniy",24198455,2003-01-20,Beloretsk,NA,2020,Russia,Male,NA,https://ratings.fide.com/profile/24198455,53.9906445703894,58.4083405604109
 "Gutov, Andrey",4130480,1978-12-08,Belovo,NA,2006,Russia,Male,NA,https://ratings.fide.com/profile/4130480,46.1588348332095,15.1546936870005
 "Bocharov, Ivan",4180887,1990-01-06,Berdsk,NA,2020,Russia,Male,NA,https://ratings.fide.com/profile/4180887,54.7426341616463,83.1312646526895
@@ -1728,7 +1728,7 @@ Wong Meng Kong,5800030,1963-09-18,Singapore,NA,1999,Singapore,Male,NA,https://ra
 "Maksimenko, Andrei",14100584,1969-12-07,Cherkasy,NA,1995,Ukraine,Male,NA,https://ratings.fide.com/profile/14100584,49.1725628430528,31.2060812032615
 "Kovchan, Alexander",14103052,1983-10-21,Chernigov,NA,2002,Ukraine,Male,NA,https://ratings.fide.com/profile/14103052,51.4645370820272,31.2698696598565
 "Bernadskiy, Vitaliy",14100371,1994-10-17,Chernivtsi,NA,2014,Ukraine,Male,NA,https://ratings.fide.com/profile/14100371,48.3048877933758,25.9083445912157
-"Mirzoev, Emil",14108640,1996,Chkalov,NA,2019,Ukraine,Male,NA,https://ratings.fide.com/profile/14108640,41.9102519216747,61.0742164615003
+"Mirzoev, Emil",14108640,1996-08-15,Chkalov,NA,2019,Ukraine,Male,NA,https://ratings.fide.com/profile/14108640,41.9102519216747,61.0742164615003
 "Moroz, Alexander",14100509,1961-01-18,Dniepropetrovsk,2009-01-17,1999,Ukraine,Male,NA,https://ratings.fide.com/profile/14100509,48.6522024273615,34.9472906722062
 "Zinchenko, Yaroslav",14110547,1987-02-14,Dniepropetrovsk,NA,2006,Ukraine,Male,NA,https://ratings.fide.com/profile/14110547,48.6653400299161,34.9344436729865
 "Kononenko, Dmitry",14113007,1988-08-23,Dnipro,NA,2007,Ukraine,Male,NA,https://ratings.fide.com/profile/14113007,51.9420214654719,30.7967650244025
@@ -1752,7 +1752,7 @@ Wong Meng Kong,5800030,1963-09-18,Singapore,NA,1999,Singapore,Male,NA,https://ra
 "Goloshchapov, Alexander",14103222,1978-01-25,Kharkiv,NA,1999,Ukraine,Male,NA,https://ratings.fide.com/profile/14103222,50.0202313636683,36.221419616141
 "Gurevich, Vladimir",14100207,1959-08-04,Kharkiv,NA,1998,Ukraine,Male,NA,https://ratings.fide.com/profile/14100207,49.9745377576046,36.231719529512
 "Neverov, Valeriy",14100150,1964-06-21,Kharkiv,NA,1991,Ukraine,Male,NA,https://ratings.fide.com/profile/14100150,50.0025004486434,36.2313052770539
-"Omelja, Artem",14119846,1991,Kharkiv,NA,2020,Ukraine,Male,NA,https://ratings.fide.com/profile/14119846,49.9826972202791,36.24415065492
+"Omelja, Artem",14119846,1991-10-18,Kharkiv,NA,2020,Ukraine,Male,NA,https://ratings.fide.com/profile/14119846,49.9826972202791,36.24415065492
 "Simantsev, Mikhail",14104555,1978-11-01,Kharkiv,NA,2008,Ukraine,Male,NA,https://ratings.fide.com/profile/14104555,50.0112880091483,36.2557667472396
 "Ushenina, Anna",14110911,1985-08-30,Kharkiv,NA,2012,Ukraine,Female,Women's World Champion 2012–2013  IM,https://ratings.fide.com/profile/14110911,49.9868945026744,36.2180974489168
 "Novikov, Igor",14100037,1962-05-23,Kharkov,NA,1990,United States,Male,NA,https://ratings.fide.com/profile/14100037,50.0198435430249,36.2576364755394
@@ -1910,7 +1910,7 @@ Li Ruifeng,2061074,2001-09-14,Hangzhou,NA,2017,United States,Male,NA,https://rat
 "Naroditsky, Daniel",2026961,1995-11-09,San Mateo,NA,2013,United States,Male,NA,https://ratings.fide.com/profile/2026961,37.4877936713331,-122.306929313018
 "Bhat, Vinay",2011352,1984-06-04,Santa Clara,NA,2008,United States,Male,NA,https://ratings.fide.com/profile/2011352,37.255215413824,-121.68959439836
 "Kraai, Jesse",2002035,1972-05-06,"Santa Fe, USA",NA,2007,United States,Male,NA,https://ratings.fide.com/profile/2002035,35.675008124452,-105.950364366615
-"Sheng, Joshua",2057360,2000,"Santa Monica, California",NA,2021,United States,Male,NA,https://ratings.fide.com/profile/2057360,34.0053964701155,-118.480127178475
+"Sheng, Joshua",2057360,1999-09-22,"Santa Monica, California",NA,2021,United States,Male,NA,https://ratings.fide.com/profile/2057360,34.0053964701155,-118.480127178475
 "Sturt, Raven",2007304,1993-08-01,"Sedona, Arizona",NA,2022,United States,Male,IM,https://ratings.fide.com/profile/2007304,34.8517596199795,-111.823778092074
 "Hungaski, Robert",2021030,1987-12-08,"Stamford, Connecticut",NA,2013,United States,Male,NA,https://ratings.fide.com/profile/2021030,41.0616038105867,-73.5475087713171
 "Ziatdinov, Raset",2015323,1958-12-27,Tashkent,NA,2005,United States,Male,NA,https://ratings.fide.com/profile/2015323,41.3275661620017,69.2580102029715
