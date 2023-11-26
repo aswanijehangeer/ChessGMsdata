@@ -42,6 +42,10 @@ data(chess_grandmasters)
 
 This will make the chess_grandmasters dataset available for your analysis.
 
+I have also developed a Shiny app based on a dataset related to chess grandmasters.
+
+You can access the Shiny app by following this link: [Chess Grandmasters Shiny App](https://aswanijahangeer.shinyapps.io/chess_grandmasters_shinyapp/)
+
 ## License
 
 This package is open-source and available under the [MIT License](LICENSE).
